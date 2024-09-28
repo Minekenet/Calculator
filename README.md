@@ -11,4 +11,4 @@
 
 ### Авторы
 - 👑 [Minekenet](https://github.com/Minekenet)  
-- &nbsp;🛠 &nbsp;[AetherDeS](https://github.com/AetherDeS)
+- 🛠 [AetherDeS](https://github.com/AetherDeS)
