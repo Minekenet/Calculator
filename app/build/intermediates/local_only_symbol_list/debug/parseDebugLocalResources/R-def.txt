@@ -1,0 +1,35 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id button0
+id button1
+id button12
+id button1Deliti
+id button2
+id button3
+id button4
+id button5
+id button6
+id button7
+id button8
+id button9
+id buttonBack
+id buttonMinus
+id buttonPlus
+id buttonProchent
+id buttonRovno
+id buttonX
+id buttonZapitaya
+id main
+id textView
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.MyCALCUL
+style Theme.MyCALCUL
+xml backup_rules
+xml data_extraction_rules

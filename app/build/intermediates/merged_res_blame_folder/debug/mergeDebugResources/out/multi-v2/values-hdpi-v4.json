@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.mycalcul.app-mergeDebugResources-31:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\MainUser\\.gradle\\caches\\transforms-4\\35c5dba9252fa727114bbf4af3c5e55b\\transformed\\appcompat-1.7.0\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}
