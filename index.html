@@ -4,8 +4,37 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            padding: 20px;
+            background-color: #131313;
+        }
+        a {
+            padding: 16px 36px;
+            /* border: 1px solid #ccc; */
+            border-radius: 24px;
+            background-color: #242424;
+            /* Text */
+            color: #fff;
+            text-decoration: none;
+        }
+        a:hover {
+            color: #ffcb5b;
+            box-shadow: 4px 0px 98px -19px rgba(255, 203, 91, 0.26);
+            transition: .8s;
+        }
+        a:active {
+            color: #41b9ff;
+        }
+    </style>
 </head>
 <body>
-    <a href="app/build/outputs/apk/debug/app-debug.apk">Скачать APK файл</a>
+    <a href="app/build/outputs/apk/debug/app-debug.apk">Download APK</a>
 </body>
 </html>
